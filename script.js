@@ -1,3 +1,4 @@
+"use strict"
 // first task
 
 let userName = prompt('Приветствую Вас, не соблаговолите ли представиться?');
